@@ -1,2 +1,2 @@
-Instructions: array_sum.txt
-Direct Instructions: array_sum.pdf (representation)
+Instructions + Codes : array_sum.txt
+Instructions + Representation : array_sum.pdf
