@@ -1,3 +1,7 @@
-Instructions + Codes : array_sum.txt
+SDK Folder Contains helloworld.c (vitis : application program).
 
-Instructions + Representation : array_sum.pdf
+VIVADO Folder Contains testbench.vhd (vivado : testbench).
+
+array_sum.pdf Contains instructions (follow : along).
+
+array_sum.txt Contains Specific instructions (If : neeed).
