@@ -1,4 +1,4 @@
-I demonstrate the simulation of a MicroBlaze processor on an FPGA using Vivado and Vitis 2023.2 :
+I DEMONSTRATE THE SIMULATION OF A MICROBLAZE PROCESSOR ON AN FPGA USING VIVADO AND VITIS 2023.2:
 
 SDK Folder Contains helloworld.c *(VITIS : application program).
 
