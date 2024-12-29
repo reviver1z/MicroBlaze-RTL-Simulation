@@ -1,7 +1,7 @@
-SDK Folder Contains helloworld.c (vitis : application program).
+SDK Folder Contains helloworld.c *(VITIS : application program).
 
-VIVADO Folder Contains testbench.vhd (vivado : testbench).
+VIVADO Folder Contains testbench.vhd *(VIVADO : testbench).
 
-array_sum.pdf Contains instructions (follow : along).
+array_sum.pdf Contains instructions *(FOLLOW : along).
 
-array_sum.txt Contains Specific instructions (If : neeed).
+array_sum.txt Contains Specific instructions (YOU : need).
